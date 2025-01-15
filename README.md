@@ -4,7 +4,7 @@ Tech enthusiast and process automation advocate specializing in [Camunda BPM](ht
 
 See my:
 - [Linkedin](https://www.linkedin.com/in/alex-chabatar-08939591/) profile
-- [Upwork](https://www.upwork.com/freelancers/~01916b901cefc80351) profile (I am Top Rated Talent with 100% Job Success)
+- [Upwork](https://www.upwork.com/freelancers/~01916b901cefc80351) profile (Top Rated Talent with 100% Job Success)
 
 I'm also Camunda <mark>Certified</mark> Professional - Developer, check it [here](https://www.credly.com/badges/7bdad436-f90d-455c-a9cd-719e3a46c7d6) to verify.
 
