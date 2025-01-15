@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋, I'm Alex
+
+Tech enthusiast and process automation advocate specializing in [Camunda BPM](https://camunda.com/). Passionate about designing efficient, scalable solutions to streamline workflows and drive business impact.
+
+See my:
+- [Linkedin](https://www.linkedin.com/in/alex-chabatar-08939591/) profile
+- [Upwork](https://www.upwork.com/freelancers/~01916b901cefc80351) profile (I am Top Rated Talent with 100% Job Success)
+
+🚀 Let’s automate any process, anywhere!
 
 <!--
 **alex-chabatar/alex-chabatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
