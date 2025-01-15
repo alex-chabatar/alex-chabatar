@@ -8,7 +8,7 @@ See my:
 
 I'm also Camunda <mark>Certified</mark> Professional - Developer, check it [here](https://www.credly.com/badges/7bdad436-f90d-455c-a9cd-719e3a46c7d6) to verify.
 
-<img src="docs/c8-cp-dv.png" width="64" height="64">
+<a href="https://www.credly.com/badges/7bdad436-f90d-455c-a9cd-719e3a46c7d6"><img src="docs/c8-cp-dv.png" width="64" height="64">
 
 🚀 Let’s automate any process, anywhere!
 
